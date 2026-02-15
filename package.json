@@ -1,0 +1,11 @@
+{
+  "name": "on-chain-orderbook-dex-core",
+  "version": "1.0.0",
+  "description": "Professional On-Chain Matching Engine",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  },
+  "devDependencies": {
+    "hardhat": "^2.19.0"
+  }
+}
